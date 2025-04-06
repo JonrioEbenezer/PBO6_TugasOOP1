@@ -31,7 +31,7 @@ public class Pembayaran {
 
         System.out.println("Metode Bayar  : " + paymentMethod);
         System.out.println("Status        : " + paymentStatus);
-        System.out.println("==============================");
+     
     }
 
     // Format mata uang
